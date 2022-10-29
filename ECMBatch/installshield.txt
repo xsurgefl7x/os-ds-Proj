@@ -1,0 +1,3 @@
+produce the record.iss -> "setup.exe /a /r /f1C:\Users\sergio.salazar\Desktop\record.iss"
+
+silent install -> "setup.exe /s /a /s /f1C:\Users\sergio.salazar\Desktop\record.iss"

@@ -1,0 +1,10 @@
+[InstallShield Silent]
+Version=v7.00
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=Enterprise Communication Manager
+Version=9.00.000
+Company=Retail Pro
+Lang=0009
